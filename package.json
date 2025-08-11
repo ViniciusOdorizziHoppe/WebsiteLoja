@@ -1,0 +1,20 @@
+{
+  "name": "websiteloja",
+  "version": "1.0.0",
+  "description": "Criei esse site utilizando meus conhecimentos atuais para uma loja de minha cidade,planejo modificar esses projeto com o tempo conforme conseguir me desenvolver melhor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusOdorizziHoppe/WebsiteLoja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusOdorizziHoppe/WebsiteLoja/issues"
+  },
+  "homepage": "https://github.com/ViniciusOdorizziHoppe/WebsiteLoja#readme"
+}
