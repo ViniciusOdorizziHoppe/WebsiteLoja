@@ -1,8 +1,9 @@
 {
   "name": "websiteloja",
   "version": "1.0.0",
+  "type": "module",
   "description": "Criei esse site utilizando meus conhecimentos atuais para uma loja de minha cidade,planejo modificar esses projeto com o tempo conforme conseguir me desenvolver melhor",
-  "main": "index.js",
+  "main": "serve.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ViniciusOdorizziHoppe/WebsiteLoja/issues"
   },
-  "homepage": "https://github.com/ViniciusOdorizziHoppe/WebsiteLoja#readme"
+  "homepage": "https://github.com/ViniciusOdorizziHoppe/WebsiteLoja#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
