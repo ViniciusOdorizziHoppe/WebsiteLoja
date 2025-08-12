@@ -1,5 +1,6 @@
 * {
-    
+    font-family: "DM Serif Text", serif;
+    border: red solid;
 }
 body {
     padding: 0;
@@ -16,4 +17,61 @@ header {
     max-width: 200px;
     margin: 0;
     padding: 0;
+    position: relative;
+    right: 25%;
+    border: none;
+}
+ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    border: none;
+    
+}
+li {
+    color: white;
+    margin: 10%;
+    padding: 0;
+    border: none;
+    position: relative;
+    top: 30%;
+    right: 80%;
+    
+}
+.BotaoCarrinhoDeCompras {
+    width: 15%;
+    max-width: 80px;
+    max-height: 80px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 100%;
+    position: relative;
+    top: 3em;
+    left: 3.6em;
+}
+.BotaoCarrinhoDeCompras:hover {
+    transform: scale(1.1);
+}
+.LogoCarrinhoDeCompras {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+main {
+    display: flex;
+}
+.ModelosDisponiveis {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 2em;
+    left: 4em;
+}
+img {
+    height: 70%;
+    width: 70%;
 }
