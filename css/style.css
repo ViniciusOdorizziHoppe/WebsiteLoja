@@ -1,0 +1,19 @@
+* {
+    
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    border: solid;
+    display: flex;
+    background-color: black;
+    justify-content: center;
+}
+.LogoKaleo {
+    width: 50%;
+    max-width: 200px;
+    margin: 0;
+    padding: 0;
+}
